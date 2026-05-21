@@ -1,0 +1,6 @@
+{
+  "name": "AgriLogistics Portal",
+  "description": "An industrial digital manifest, waypoint tracking, and fleet transit manager for agricultural logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
